@@ -10,4 +10,4 @@ After a reboot, copy code.py and poke0.bmp to the circuitpython drive.
 
 ![](https://github.com/Fr4nkFletcher/Adafruit-Pokemon-Slot-Machine/blob/main/pokeslot.gif)
 
-For more info:<https://learn.adafruit.com/rgb-matrix-slot-machine/overview>
+More:<https://learn.adafruit.com/rgb-matrix-slot-machine/overview>
